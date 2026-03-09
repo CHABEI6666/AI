@@ -1,0 +1,13 @@
+# peach
+train: C:/Users/dyvbr/Desktop/YOLO的数据集/dataset/train
+val: C:/Users/dyvbr/Desktop/YOLO的数据集/dataset/valid
+test: C:/Users/dyvbr/Desktop/YOLO的数据集/dataset/test
+
+# Classes
+names:
+  0: insulator
+  1: defect
+
+
+
+
